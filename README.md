@@ -1,1 +1,1 @@
-Hola soy Ricardo
+# ejercicioCompa-ero
